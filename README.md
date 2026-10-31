@@ -17,7 +17,7 @@ Kobra QR est un projet d’apprentissage Python avec une interface de bureau Tki
    py main.py
    ```
 
-Tkinter est inclus avec la plupart des installations Python pour Windows. Le PNG `linkedink_link.png` déjà présent dans le dossier est conservé; le programme ne l’utilise pas.
+Tkinter est inclus avec la plupart des installations Python pour Windows.
 
 ## Utiliser l’interface
 

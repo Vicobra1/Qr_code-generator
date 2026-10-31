@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+env/
+
+# Build output
+build/
+dist/
+*.spec
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated QR images and local artifacts
+mon_qrcode_infos.png
+linkedink_link.png
+*.qr.png
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
